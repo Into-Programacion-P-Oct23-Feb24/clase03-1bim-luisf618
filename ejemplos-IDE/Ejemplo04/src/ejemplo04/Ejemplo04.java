@@ -28,7 +28,7 @@ public class Ejemplo04 {
         
         
         System.out.println("----------------");
-        double variable3 = 10.2 * 10.9;
+        double variable3 = 0.2 * 0.9;
         System.out.println(variable3);
         
         
